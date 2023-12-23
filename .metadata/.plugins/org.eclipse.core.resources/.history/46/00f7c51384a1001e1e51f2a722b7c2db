@@ -1,0 +1,10 @@
+package com.springtask.demo.entities;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "salaries")
+public class Salary {
+
+}

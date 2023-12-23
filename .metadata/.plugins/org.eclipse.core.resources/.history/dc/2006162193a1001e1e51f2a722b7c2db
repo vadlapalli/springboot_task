@@ -1,0 +1,9 @@
+package com.springtask.demo.service;
+
+import com.springtask.demo.entities.Department;
+
+public interface DepartmentService {
+	
+	public boolean createDepartment(Department dept);
+
+}

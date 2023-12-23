@@ -1,0 +1,5 @@
+package com.springtask.demo.repositories;
+
+public interface EmployeeRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.springtask.demo.entities;
+
+public class Employee {
+
+}
