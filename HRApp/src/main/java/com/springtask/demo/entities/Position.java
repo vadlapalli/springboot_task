@@ -52,7 +52,7 @@ public class Position {
 	    @JsonIgnore
 	    private Department department;
 	    
-	    @OneToMany(cascade = CascadeType.ALL,mappedBy = "position")
+	    @OneToMany(cascade = CascadeType.ALL,mappedBy = "position",orphanRemoval = true)
 	    private List<Salary> salaries;
 
 }
