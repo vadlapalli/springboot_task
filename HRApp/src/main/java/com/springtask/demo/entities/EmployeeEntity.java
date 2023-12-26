@@ -3,7 +3,6 @@ package com.springtask.demo.entities;
 
 
 import java.time.LocalDateTime;
-import java.util.List;
 
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
@@ -15,8 +14,8 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToMany;
 import jakarta.persistence.ManyToOne;
+import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -55,13 +54,16 @@ public class EmployeeEntity {
 	    @UpdateTimestamp
 	    private LocalDateTime updatedAt;
 	    
-	    @ManyToOne(cascade = CascadeType.ALL)
+	    @ManyToOne()
 	    @JoinColumn(name = "department_id", nullable = false)
 	    private DepartmentEntity department;
 
 	    @ManyToOne
 	    @JoinColumn(name = "position_id", nullable = false)
 	    private PositionEntity position;
+	    
+	    @OneToOne(mappedBy = "employee", cascade = CascadeType.ALL, orphanRemoval = true)
+	    private AttendanceEntity attendance;
 
 
 }

@@ -43,7 +43,7 @@ public class PositionEntity {
 	    private LocalDateTime updatedAt;
 	    
 	    @ManyToOne
-	    @JoinColumn(name = "department_id")
+	    @JoinColumn(name = "department_id",nullable = false)
 	    private DepartmentEntity department;
 	    
 	    //@OneToMany(cascade = CascadeType.ALL,mappedBy = "position",fetch=FetchType.EAGER,orphanRemoval = true)

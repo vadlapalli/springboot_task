@@ -54,8 +54,8 @@ public class SalaryEntity {
     @UpdateTimestamp
     private LocalDateTime updatedAt;
     
-    @ManyToOne()
-    @JoinColumn(name = "position_id")
+    @ManyToOne
+    @JoinColumn(name = "position_id",nullable = false)
     private PositionEntity position;
 
 }
