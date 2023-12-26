@@ -34,7 +34,7 @@ public class SalaryCalculation {
 
     @ManyToOne
     @JoinColumn(name = "employee_id", nullable = false)
-    private Employee employee;
+    private EmployeeEntity employee;
 
     @Column(name = "calculation_date")
     private LocalDateTime calculationDate;

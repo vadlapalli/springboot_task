@@ -1,7 +1,0 @@
-package com.springtask.demo.service.impl;
-
-import com.springtask.demo.service.DepartmentService;
-
-public class DepartmentServiceImpl implements DepartmentService {
-
-}

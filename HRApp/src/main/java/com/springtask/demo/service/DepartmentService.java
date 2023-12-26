@@ -3,19 +3,22 @@ package com.springtask.demo.service;
 
 import java.util.List;
 
-import com.springtask.demo.entities.Department;
+import com.springtask.demo.binding.Department;
+import com.springtask.demo.entities.DepartmentEntity;
 
 public interface DepartmentService {
 	
-	public Department createDepartment(Department deptEntity);
+	public DepartmentEntity createDepartment(Department deptform);
 	
-	public Department fetchDeptById(Long Id);
+	public DepartmentEntity updateDept(Long id, Department dept);
 	
-	public List<Department> findAllDepts();
+	public Department findDeptById(Long id);
 	
-	public Department updateDept(Long id, Department dept);
+	public DepartmentEntity findDepartmentById(Long id);
+	
+	public List<DepartmentEntity> findAllDepts();
 	
 	public void deleteDept(Long id);
-	
+
 
 }

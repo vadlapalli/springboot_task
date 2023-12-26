@@ -7,14 +7,10 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.springtask.demo.entities.Department;
-import com.springtask.demo.entities.Position;
-import com.springtask.demo.entities.Salary;
-import com.springtask.demo.exceptions.DepartmentNotFoundException;
+import com.springtask.demo.binding.Department;
+import com.springtask.demo.entities.DepartmentEntity;
 import com.springtask.demo.repositories.DepartmentRepository;
 import com.springtask.demo.service.DepartmentService;
-
-import jakarta.transaction.Transactional;
 
 @Service
 public class DepartmentServiceImpl implements DepartmentService {
@@ -23,59 +19,57 @@ public class DepartmentServiceImpl implements DepartmentService {
 	private DepartmentRepository deptRepo;
 
 	@Override
-	@Transactional
-	public Department createDepartment(Department deptEntity) {
-		if (deptEntity.getPositions() != null) {
-			for (Position position : deptEntity.getPositions()) {
-				position.setDepartment(deptEntity);
-				if (position.getSalaries() != null) {
-					for (Salary salary : position.getSalaries()) {
-						salary.setPosition(position);
-					}
-				}
-			}
+	public DepartmentEntity createDepartment(Department deptform) {
+		DepartmentEntity enitity = new DepartmentEntity();
+		BeanUtils.copyProperties(deptform, enitity);
+		
+		return deptRepo.save(enitity);
+	}
 
+	@Override
+	public DepartmentEntity updateDept(Long id, Department dept) {
+		Optional<DepartmentEntity> byId = deptRepo.findById(id);
+		if(byId.isPresent()) {
+			DepartmentEntity enitity = byId.get();
+			BeanUtils.copyProperties(dept, enitity);
+			return deptRepo.save(enitity);
 		}
-		return deptRepo.save(deptEntity);
+		return null;
 	}
 
-	@Override
-	public Department fetchDeptById(Long Id) {
-		Optional<Department> findById = deptRepo.findById(Id);
-		if(findById.isPresent()) {
-			return findById.get();
-		}else {
-	       throw new DepartmentNotFoundException("Department not found with ID: " + Id);
-	    }
-	}
-
-	@Override
-	public List<Department> findAllDepts() {
-		 return deptRepo.findAll();
-	}
-
-	@Override
-	public Department updateDept(Long id, Department dept) {
-		Optional<Department> byId = deptRepo.findById(id);
-		 if (byId.isPresent()) {
-		        Department oldDept = byId.get();
-		        if (dept.getPositions() != null) {
-		            for (Position position : dept.getPositions()) {
-		                position.setDepartment(oldDept);
-		                if (position.getSalaries() != null) {
-		                    for (Salary salary : position.getSalaries()) {
-		                        salary.setPosition(position);
-		                    }
-		                }
-		            }
-		            oldDept.setPositions(dept.getPositions()); // Update the positions
-		        }
-		        BeanUtils.copyProperties(dept, oldDept);
-		        return deptRepo.save(oldDept);
+	@Override   
+	public Department findDeptById(Long id) {
+		Optional<DepartmentEntity> byId = deptRepo.findById(id);
+		if(byId.isPresent()) {
+			DepartmentEntity departmentEntity = byId.get();
 			
-		}else{
-			throw new DepartmentNotFoundException("Department not found with ID: " + id);
+			return mapDepartmentEntityToDepartment(departmentEntity);
 		}
+		
+		return null;
+	}
+	
+	private Department mapDepartmentEntityToDepartment(DepartmentEntity departmentEntity) {
+	    Department department = new Department();
+	    department.setName(departmentEntity.getName());
+	    // Add other properties as needed
+	    
+	    return department;
+	}
+
+	@Override
+	public DepartmentEntity findDepartmentById(Long id) {
+		Optional<DepartmentEntity> findById = deptRepo.findById(id);
+		if(findById.isPresent()) {
+			DepartmentEntity departmentEntity = findById.get();
+			return departmentEntity;
+		}
+		return null;
+	}
+
+	@Override
+	public List<DepartmentEntity> findAllDepts() { 
+		return deptRepo.findAll();
 	}
 
 	@Override
@@ -84,4 +78,5 @@ public class DepartmentServiceImpl implements DepartmentService {
 		
 	}
 
+	
 }

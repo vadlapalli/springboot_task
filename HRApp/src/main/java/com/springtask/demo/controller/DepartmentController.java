@@ -14,7 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.springtask.demo.entities.Department;
+import com.springtask.demo.binding.Department;
+import com.springtask.demo.entities.DepartmentEntity;
 import com.springtask.demo.service.impl.DepartmentServiceImpl;
 
 @RestController
@@ -24,36 +25,39 @@ public class DepartmentController {
 	@Autowired
 	private DepartmentServiceImpl serviceImpl;
 
-	@PostMapping("/createDepartment")
-	public ResponseEntity<Department> createDepartment(@RequestBody Department department) {
-		Department createdDepartment = serviceImpl.createDepartment(department);
+	@PostMapping("/create")
+	public ResponseEntity<DepartmentEntity> createDepartment(@RequestBody Department department) {
+		DepartmentEntity createdDepartment = serviceImpl.createDepartment(department);
 		return new ResponseEntity<>(createdDepartment, HttpStatus.CREATED);
 	}
 	
 	
+	@PutMapping("/update/{id}")
+	public ResponseEntity<DepartmentEntity> updateDepartment(@PathVariable Long id, @RequestBody Department department){
+		DepartmentEntity updateDept = serviceImpl.updateDept(id, department);
+		return new ResponseEntity<>(updateDept, HttpStatus.CREATED);
+	}
+	
 	@GetMapping("/{id}")
-	public ResponseEntity<Department> fetchById(@PathVariable Long id){
-		Department department = serviceImpl.fetchDeptById(id);
-		return new ResponseEntity<>(department,HttpStatus.OK);
+	public Department findDeptById(@PathVariable Long id){
+		return serviceImpl.findDeptById(id);
+	}
+	
+	@GetMapping("dept/{id}")
+	public DepartmentEntity findDepartmetById(@PathVariable Long id){
+		return serviceImpl.findDepartmentById(id);
 	}
 	
 	
 	@GetMapping("/")
-	public ResponseEntity<List<Department>> findAllDepts(){
-		List<Department> findAllDepts = serviceImpl.findAllDepts();
-		return new ResponseEntity<>(findAllDepts,HttpStatus.OK);
+	public List<DepartmentEntity> findAllDepts(){
+		return serviceImpl.findAllDepts();
 	}
-	
-	@PutMapping("update/{id}")
-	public ResponseEntity<Department> updateDept(@PathVariable Long id,Department dept){
-		Department updateDept = serviceImpl.updateDept(id, dept);
-		return new ResponseEntity<>(updateDept,HttpStatus.CREATED);
-	}
+
 	
 	@DeleteMapping("/{id}")
-	public void deleteDept(@PathVariable Long id){
-		serviceImpl.deleteDept(id);
+	public void deleteById(@PathVariable Long id) {
+		 serviceImpl.deleteDept(id);
 	}
-	
 
 }
