@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.BeanUtils;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.springtask.demo.binding.Salary;
@@ -17,8 +16,12 @@ import com.springtask.demo.service.SalaryService;
 @Service
 public class SalaryServiceImpl implements SalaryService {
 	
-	@Autowired
 	private SalaryRepository salaryRepo;
+
+	public SalaryServiceImpl(SalaryRepository salaryRepo) {
+		super();
+		this.salaryRepo = salaryRepo;
+	}
 
 	@Override
 	public SalaryEntity postSalary(Salary salary) {

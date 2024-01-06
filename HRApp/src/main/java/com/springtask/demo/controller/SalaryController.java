@@ -2,7 +2,6 @@ package com.springtask.demo.controller;
 
 import java.util.List;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -20,20 +19,22 @@ import com.springtask.demo.service.impl.SalaryServiceImpl;
 @RequestMapping("/api/salaries")
 public class SalaryController {
 	
-	@Autowired
+	
 	private SalaryServiceImpl serviceImpl;
 	
-	
+	public SalaryController(SalaryServiceImpl serviceImpl) {
+		super();
+		this.serviceImpl = serviceImpl;
+	}
+
 	@PostMapping("/post")
 	public SalaryEntity postSalary(@RequestBody Salary salary) {
-		SalaryEntity postSalary = serviceImpl.postSalary(salary);
-		return postSalary;
+		return serviceImpl.postSalary(salary);
 	}
 	
 	@PutMapping("/update/{id}")
 	public SalaryEntity updateSalary(@PathVariable Long id, @RequestBody Salary salary) {
-		SalaryEntity updatedSalary = serviceImpl.updateSalary(id, salary);
-		return updatedSalary;
+		return serviceImpl.updateSalary(id, salary);
 	}
 	
 	

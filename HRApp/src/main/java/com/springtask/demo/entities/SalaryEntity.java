@@ -1,5 +1,6 @@
 package com.springtask.demo.entities;
 
+import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
 import org.hibernate.annotations.CreationTimestamp;
@@ -34,17 +35,17 @@ public class SalaryEntity {
     private Long id;
 
     @Column(name = "basic_salary")
-    private double basicSalary;
+    private BigDecimal basicSalary;
 
-    private double hra;
+    private BigDecimal hra;
 
-    private double da;
+    private BigDecimal da;
 
     @Column(name = "other_allowances")
-    private double otherAllowances;
+    private BigDecimal otherAllowances;
 
     @Column(name = "gross_salary")
-    private double grossSalary;
+    private BigDecimal grossSalary;
 
     @Column(name = "created_at")
     @CreationTimestamp

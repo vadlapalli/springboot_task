@@ -1666,3 +1666,556 @@
 2023-12-26 22:36:14,260 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
 2023-12-26 22:41:03,080 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-12-26 22:41:03,087 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-26 22:41:03,092 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-26 22:48:07,264 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-26 22:48:07,274 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-26 22:48:07,278 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-26 22:49:47,418 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-26 22:49:47,426 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-26 22:49:47,431 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-26 22:49:53,740 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-26 22:49:53,750 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-26 22:49:53,755 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-26 22:52:45,541 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-26 22:52:45,547 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-26 22:52:45,552 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-26 22:56:02,751 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-26 22:56:02,758 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-26 22:56:02,764 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-26 23:15:51,701 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-26 23:15:51,721 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-26 23:15:51,728 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-26 23:16:06,348 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-26 23:16:06,371 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-26 23:16:06,375 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-26 23:16:56,934 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-26 23:16:56,947 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-26 23:16:56,952 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-27 11:48:58,385 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-27 11:51:46,810 [Worker-4: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-27 11:51:46,856 [Worker-4: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-27 11:51:46,865 [Worker-4: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 08:41:52,834 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-28 09:44:35,908 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 09:44:35,981 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 09:44:35,989 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 09:45:04,993 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 09:45:05,001 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 09:45:05,008 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 10:23:13,732 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 10:23:13,753 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 10:23:13,759 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 10:35:39,227 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 10:35:39,241 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 10:35:39,248 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 10:35:49,110 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 10:35:49,119 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 10:35:49,127 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 10:35:53,501 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 10:35:53,511 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 10:35:53,517 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 10:36:02,429 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 10:36:02,435 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 10:36:02,441 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 10:36:06,074 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 10:36:06,087 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 10:36:06,095 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:33:41,832 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-28 16:41:47,234 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:41:47,277 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:41:47,285 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:42:00,748 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:42:00,813 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:42:00,820 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:42:14,545 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:42:14,553 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:42:14,559 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:42:54,684 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:42:54,729 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:42:54,809 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:44:05,044 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:44:05,069 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:44:05,075 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:44:22,439 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:44:22,462 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:44:22,469 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:46:24,244 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:46:24,251 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:46:24,257 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:46:33,145 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:46:33,152 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:46:33,160 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:50:01,692 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:50:01,699 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:50:01,706 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:50:18,176 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:50:18,183 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:50:18,193 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:53:47,135 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:53:47,144 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:53:47,153 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:54:57,081 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:54:57,089 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:54:57,097 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:55:02,858 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:55:02,869 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:55:02,878 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:55:07,563 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:55:07,590 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:55:07,597 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:56:51,547 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:56:51,554 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:56:51,561 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:57:45,236 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:57:45,246 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:57:45,258 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:57:57,183 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:57:57,190 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:57:57,195 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 16:58:53,119 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 16:58:53,126 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 16:58:53,132 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:01:03,868 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:01:03,874 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:01:03,880 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:07:44,860 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:07:44,886 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:07:44,892 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:10:32,822 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:10:32,840 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:10:32,846 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:11:13,276 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:11:13,306 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:11:13,366 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:11:51,862 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:11:51,870 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:11:51,876 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:13:28,210 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:13:28,216 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:13:28,221 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:18:50,999 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:18:51,005 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:18:51,010 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:20:11,224 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:20:11,230 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:20:11,235 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:27:22,754 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:27:22,809 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:27:22,818 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:28:46,130 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:28:46,138 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:28:46,143 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-28 17:28:55,747 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 17:28:55,754 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-28 17:28:55,758 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 08:39:57,273 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-29 08:40:41,263 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 08:40:41,378 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 08:40:41,388 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 16:55:23,923 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 16:55:23,965 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 16:55:23,970 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 17:13:20,755 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 17:13:20,841 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 17:13:20,857 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 21:36:24,143 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-29 21:37:22,048 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 21:37:22,087 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 21:37:22,100 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:14:03,300 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:14:04,588 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:14:04,589 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:14:04,596 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:14:23,742 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:14:41,231 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2023-12-29 22:14:41,247 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-12-29 22:14:41,248 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-12-29 22:14:41,249 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-12-29 22:14:41,249 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-12-29 22:14:41,250 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-12-29 22:14:41,250 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-12-29 22:14:41,250 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-12-29 22:14:41,251 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-12-29 22:14:41,251 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-12-29 22:14:41,251 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-12-29 22:14:41,251 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-12-29 22:14:41,252 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-12-29 22:14:41,252 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-12-29 22:14:41,252 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-12-29 22:14:41,252 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-12-29 22:14:41,253 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-12-29 22:14:41,253 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-12-29 22:14:41,253 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-12-29 22:14:41,253 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-12-29 22:14:41,254 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-12-29 22:14:41,254 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-12-29 22:14:41,254 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-12-29 22:14:41,254 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-12-29 22:14:41,255 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-12-29 22:14:41,255 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-12-29 22:14:41,255 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-12-29 22:14:41,255 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-12-29 22:14:41,256 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-12-29 22:14:41,256 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-12-29 22:14:41,256 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-12-29 22:14:41,257 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-12-29 22:14:41,257 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-12-29 22:14:41,258 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-12-29 22:14:41,258 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-12-29 22:14:41,259 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-12-29 22:14:41,259 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-12-29 22:14:41,259 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-12-29 22:14:41,262 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2023-12-29 22:14:41,263 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2023-12-29 22:14:41,264 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2023-12-29 22:14:41,265 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\slf4j.api_1.7.36.jar
+2023-12-29 22:14:41,266 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2023-12-29 22:14:41,267 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-12-29 22:14:41,267 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2023-12-29 22:14:41,271 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-12-29 22:14:41,271 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2023-12-29 22:14:41,272 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-12-29 22:14:41,273 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2023-12-29 22:14:41,274 [Worker-1: Launching HRApp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-12-29 22:14:41,278 [Worker-1: Launching HRApp] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:14:41,285 [Worker-1: Launching HRApp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2023-12-29 22:16:57,733 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-12-29 22:16:57,977 [Worker-1: Launching HRApp] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:16:57,978 [Worker-1: Launching HRApp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2023-12-29 22:18:37,864 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:18:49,918 [Worker-1: Launching HRApp (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:18:49,919 [Worker-1: Launching HRApp (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2023-12-29 22:19:29,695 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:19:40,050 [Worker-1: Launching HRApp (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:19:40,051 [Worker-1: Launching HRApp (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always sonar:sonar
+2023-12-29 22:22:26,446 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-29 22:22:26,861 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:22:28,314 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2023-12-29 22:22:28,317 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:22:28,318 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:22:28,321 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2023-12-29 22:22:31,598 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 3.00 sec 
+2023-12-29 22:22:34,349 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:22:34,384 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:22:34,391 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:24:23,742 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:24:23,747 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:24:23,752 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:24:47,429 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-29 22:24:47,875 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:24:48,669 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2023-12-29 22:24:48,669 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:24:48,670 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:24:48,671 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2023-12-29 22:24:50,053 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2023-12-29 22:24:51,715 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:24:51,748 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:24:51,755 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:25:10,750 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:25:10,754 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:25:10,760 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:25:20,784 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:25:21,746 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:25:21,747 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:25:21,753 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:25:30,475 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-29 22:25:30,930 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:25:31,682 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2023-12-29 22:25:31,683 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:25:31,684 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:25:31,685 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2023-12-29 22:25:33,040 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2023-12-29 22:25:34,941 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:25:34,971 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:25:34,978 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:27:41,942 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-29 22:27:42,415 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:27:43,096 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2023-12-29 22:27:43,097 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:27:43,098 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:27:43,099 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2023-12-29 22:27:44,123 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-12-29 22:27:45,686 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:27:45,714 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:27:45,719 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:29:43,077 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:29:57,480 [Worker-35: Launching HRApp (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:29:57,481 [Worker-35: Launching HRApp (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2023-12-29 22:30:47,247 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:30:58,607 [Worker-28: Launching HRApp (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:30:58,608 [Worker-28: Launching HRApp (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always sonar:sonar
+2023-12-29 22:39:47,463 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:39:48,353 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:39:48,354 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:39:48,361 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:39:57,976 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:40:07,016 [Worker-31: Launching HRApp (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:40:07,016 [Worker-31: Launching HRApp (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always mvn clean
+2023-12-29 22:40:25,402 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:40:26,222 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:40:26,247 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:40:26,254 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:40:50,269 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-29 22:40:50,605 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:40:51,307 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2023-12-29 22:40:51,308 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:40:51,308 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:40:51,310 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2023-12-29 22:40:52,021 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-12-29 22:40:53,677 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:40:53,705 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:40:53,711 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:42:06,083 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:42:15,111 [Worker-41: Launching HRApp (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:42:15,111 [Worker-41: Launching HRApp (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always mvn clean
+2023-12-29 22:42:48,238 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-29 22:42:49,763 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:42:58,592 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2023-12-29 22:42:58,593 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:42:58,593 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:42:58,594 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2023-12-29 22:42:59,287 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 10.00 sec, update config takes 0.00 sec 
+2023-12-29 22:43:01,314 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:43:01,342 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:43:01,347 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:43:12,061 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:43:21,467 [Worker-41: Launching HRApp (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:43:21,468 [Worker-41: Launching HRApp (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always mvn clean
+2023-12-29 22:43:49,813 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:43:59,733 [Worker-39: Launching HRApp (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:43:59,734 [Worker-39: Launching HRApp (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2023-12-29 22:44:48,080 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:44:57,192 [Worker-40: Launching HRApp (9)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:44:57,192 [Worker-40: Launching HRApp (9)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always mvn install
+2023-12-29 22:46:14,733 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:46:25,840 [Worker-33: Launching HRApp (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:46:25,841 [Worker-33: Launching HRApp (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always mvn clean install
+2023-12-29 22:47:20,460 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:47:21,319 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:47:21,320 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:47:21,324 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:47:51,689 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:47:51,714 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:47:51,720 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:48:17,772 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-29 22:48:18,098 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2023-12-29 22:48:18,786 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2023-12-29 22:48:18,787 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:48:18,787 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2023-12-29 22:48:18,788 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2023-12-29 22:48:19,599 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-12-29 22:48:21,010 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 22:48:21,041 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 22:48:21,049 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2023-12-29 22:48:28,845 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-12-29 22:48:41,623 [Worker-33: Launching HRApp (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2023-12-29 22:48:41,624 [Worker-33: Launching HRApp (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always mvn clean install
+2023-12-30 11:14:24,509 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-05 09:56:47,179 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-05 09:56:48,231 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-01-05 10:02:16,905 [Worker-4: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-05 10:02:16,968 [Worker-4: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-05 10:02:16,982 [Worker-4: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-05 15:37:20,873 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-05 15:58:44,681 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar
+2024-01-05 15:58:44,733 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar
+2024-01-05 15:58:44,811 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom
+2024-01-05 15:58:44,833 [Worker-8: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom
+2024-01-05 15:58:45,743 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2024-01-05 15:58:47,400 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-05 15:58:47,454 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-05 15:58:47,463 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-05 15:58:48,113 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-05 15:58:48,779 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2024-01-05 15:58:50,452 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2024-01-05 15:58:50,455 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2024-01-05 15:58:50,456 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2024-01-05 15:58:50,458 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2024-01-05 15:58:52,064 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2024-01-05 15:58:52,093 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-05 15:58:52,831 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2024-01-05 15:58:54,198 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2024-01-05 15:58:54,199 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2024-01-05 15:58:54,202 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2024-01-05 15:58:54,204 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2024-01-05 15:58:55,636 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2024-01-05 15:59:00,173 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2024-01-05 15:59:01,347 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-05 15:59:01,390 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-05 15:59:01,399 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-05 15:59:01,506 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-05 15:59:02,045 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2024-01-05 15:59:03,088 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/main/java
+2024-01-05 15:59:03,089 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2024-01-05 15:59:03,090 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HRApp/src/main/resources
+2024-01-05 15:59:03,092 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HRApp/src/test/java
+2024-01-05 15:59:05,086 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2024-01-05 15:59:08,828 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-05 15:59:08,909 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-05 15:59:08,921 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-05 16:05:08,864 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springtask:demo:0.0.1-SNAPSHOT @ C:\JsTechno\HRApp\pom.xml.
+2024-01-05 16:05:10,063 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-05 16:05:10,064 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-05 16:05:10,071 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-05 16:06:44,866 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-01-05 16:07:21,664 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2024-01-05 16:07:21,671 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2024-01-05 16:07:21,672 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2024-01-05 16:07:21,672 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2024-01-05 16:07:21,673 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2024-01-05 16:07:21,673 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2024-01-05 16:07:21,674 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2024-01-05 16:07:21,674 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2024-01-05 16:07:21,675 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2024-01-05 16:07:21,675 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2024-01-05 16:07:21,675 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2024-01-05 16:07:21,676 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2024-01-05 16:07:21,676 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2024-01-05 16:07:21,677 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2024-01-05 16:07:21,678 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2024-01-05 16:07:21,678 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2024-01-05 16:07:21,679 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-01-05 16:07:21,679 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2024-01-05 16:07:21,680 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2024-01-05 16:07:21,680 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2024-01-05 16:07:21,681 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-01-05 16:07:21,681 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2024-01-05 16:07:21,682 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2024-01-05 16:07:21,683 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2024-01-05 16:07:21,683 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2024-01-05 16:07:21,684 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2024-01-05 16:07:21,684 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2024-01-05 16:07:21,685 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-01-05 16:07:21,685 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-01-05 16:07:21,686 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2024-01-05 16:07:21,687 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2024-01-05 16:07:21,687 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2024-01-05 16:07:21,688 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2024-01-05 16:07:21,688 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2024-01-05 16:07:21,688 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2024-01-05 16:07:21,689 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2024-01-05 16:07:21,689 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2024-01-05 16:07:21,690 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2024-01-05 16:07:21,693 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2024-01-05 16:07:21,695 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2024-01-05 16:07:21,695 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2024-01-05 16:07:21,697 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\slf4j.api_1.7.36.jar
+2024-01-05 16:07:21,697 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2024-01-05 16:07:21,701 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-01-05 16:07:21,702 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2024-01-05 16:07:21,705 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2024-01-05 16:07:21,705 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2024-01-05 16:07:21,707 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2024-01-05 16:07:21,707 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2024-01-05 16:07:21,710 [Worker-19: Launching HRApp (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Hari\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-01-05 16:07:21,715 [Worker-19: Launching HRApp (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2024-01-05 16:07:21,723 [Worker-19: Launching HRApp (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-01-05 16:08:48,250 [Worker-19: Launching HRApp (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\JsTechno\HRApp":
+2024-01-05 16:08:48,251 [Worker-19: Launching HRApp (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always sonar:sonar
+2024-01-05 16:23:38,247 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-05 16:23:38,275 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-05 16:23:38,281 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-05 16:23:54,149 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-05 16:23:54,179 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-05 16:23:54,190 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:02:04,828 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-06 10:12:43,327 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:12:43,432 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:12:43,443 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:15:19,508 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:15:19,523 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:15:19,530 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:16:20,971 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:16:20,982 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:16:20,994 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:16:26,470 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:16:26,486 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:16:26,501 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:18:03,530 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:18:03,537 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:18:03,545 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:18:07,191 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:18:07,199 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:18:07,204 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:19:10,206 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:19:10,213 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:19:10,219 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:19:56,906 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:19:56,914 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:19:56,946 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:25:10,392 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:25:10,404 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:25:10,410 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:30:24,848 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:30:24,860 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:30:24,865 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:30:30,439 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:30:30,452 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:30:30,457 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:31:48,945 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:31:48,964 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:31:48,971 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:32:12,822 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:32:12,830 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:32:12,835 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:32:18,944 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:32:18,952 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:32:18,958 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:33:00,930 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:33:00,937 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:33:00,943 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:33:54,555 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:33:54,562 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:33:54,570 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:34:17,218 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:34:17,229 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:34:17,235 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:37:30,893 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:37:30,900 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:37:30,906 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:39:30,429 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:39:30,436 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:39:30,443 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:42:47,227 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:42:47,234 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:42:47,239 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:43:55,160 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:43:55,184 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:43:55,189 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:45:30,436 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:45:30,442 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:45:30,447 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:45:57,080 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:45:57,091 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:45:57,097 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 10:46:33,687 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 10:46:33,694 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 10:46:33,700 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:00:36,717 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 11:00:36,770 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 11:00:36,776 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:00:51,705 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 11:00:51,740 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 11:00:51,744 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:02:31,045 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 11:02:31,054 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 11:02:31,060 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:04:32,714 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 11:04:32,725 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 11:04:32,730 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:04:50,447 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 11:04:50,460 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 11:04:50,466 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:07:06,244 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 11:07:06,251 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 11:07:06,256 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:09:13,799 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 11:09:13,805 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 11:09:13,810 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:09:49,468 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 11:09:49,489 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 11:09:49,503 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:09:54,553 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-06 11:09:54,560 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-06 11:09:54,566 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\JsTechno\HRApp\src\test\resources
+2024-01-06 11:10:01,185 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes

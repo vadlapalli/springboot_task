@@ -46,8 +46,6 @@ public class PositionEntity {
 	    @JoinColumn(name = "department_id",nullable = false)
 	    private DepartmentEntity department;
 	    
-	    //@OneToMany(cascade = CascadeType.ALL,mappedBy = "position",fetch=FetchType.EAGER,orphanRemoval = true)
-	    //private List<SalaryEntity> salaries;
 	    
 	    
 

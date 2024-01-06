@@ -2,7 +2,6 @@ package com.springtask.demo.controller;
 
 import java.util.List;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -22,8 +21,11 @@ import com.springtask.demo.service.impl.DepartmentServiceImpl;
 @RequestMapping("/api/departments")
 public class DepartmentController {
 
-	@Autowired
 	private DepartmentServiceImpl serviceImpl;
+	
+	public DepartmentController(DepartmentServiceImpl serviceImpl) {
+		this.serviceImpl=serviceImpl;
+	}
 
 	@PostMapping("/create")
 	public ResponseEntity<DepartmentEntity> createDepartment(@RequestBody Department department) {

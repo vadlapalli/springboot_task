@@ -2,7 +2,6 @@ package com.springtask.demo.controller;
 
 import java.util.List;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -22,13 +21,16 @@ import com.springtask.demo.service.impl.PositionServiceImpl;
 @RequestMapping("/api/positions")
 public class PositionController {
 	
-	@Autowired
+
 	private PositionServiceImpl positionImpl;
+	
+	public PositionController(PositionServiceImpl positionImpl) {
+		this.positionImpl=positionImpl;
+	}
 	
 	@PostMapping("/create")
 	public ResponseEntity<PositionEntity> createPosition(@RequestBody PositionEntity position){
-		PositionEntity createPosition = positionImpl.createPosition(position);
-		return new ResponseEntity<PositionEntity>(createPosition,HttpStatus.CREATED);
+		return new ResponseEntity<>(positionImpl.createPosition(position),HttpStatus.CREATED);
 	}
 	
 	@PutMapping("update/{id}")

@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.BeanUtils;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.springtask.demo.binding.Position;
@@ -16,8 +15,12 @@ import com.springtask.demo.service.PositionService;
 
 public class PositionServiceImpl implements PositionService {
 	
-	@Autowired
 	private PositionRepository positionRepo;
+	
+	public PositionServiceImpl(PositionRepository positionRepo) {
+		super();
+		this.positionRepo = positionRepo;
+	}
 
 	@Override
 	public PositionEntity createPosition(PositionEntity position) {
@@ -39,8 +42,7 @@ public class PositionServiceImpl implements PositionService {
 	public PositionEntity fetchPositionById(Long id) {
 		Optional<PositionEntity> findById = positionRepo.findById(id);
 		if(findById.isPresent()) {
-			PositionEntity positionEntity = findById.get();
-			return positionEntity;
+			return findById.get();
 		}
 		return null;
 	}

@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.BeanUtils;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.springtask.demo.binding.Employee;
@@ -16,8 +15,13 @@ import com.springtask.demo.service.EmployeeService;
 @Service
 public class EmployeeServiceImpl implements EmployeeService {
 	
-	@Autowired
 	private EmployeeRepository employeeRepo;
+	
+
+	public EmployeeServiceImpl(EmployeeRepository employeeRepo) {
+		super();
+		this.employeeRepo = employeeRepo;
+	}
 
 	@Override
 	public EmployeeEntity creatEmployee(Employee employee) {
@@ -31,7 +35,6 @@ public class EmployeeServiceImpl implements EmployeeService {
 		Optional<EmployeeEntity> findById = employeeRepo.findById(id);
 		if(findById.isPresent()) {
 			EmployeeEntity entity = findById.get();
-			System.out.println("Name :"+entity.getDepartment().getName());
 			BeanUtils.copyProperties(employee, entity);
 			return employeeRepo.save(entity);
 		}else {
@@ -44,8 +47,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 	public EmployeeEntity fetchEmployeeById(Long id) {
 		Optional<EmployeeEntity> findById = employeeRepo.findById(id);
 		if(findById.isPresent()) {
-			EmployeeEntity employeeEntity = findById.get();
-			return employeeEntity;
+			return findById.get();
 		}else {
 			throw new EmployeeNotFoundException("Employee not available with give id:"+id);
 		}

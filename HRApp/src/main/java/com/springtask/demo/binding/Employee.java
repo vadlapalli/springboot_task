@@ -19,5 +19,6 @@ public class Employee {
     private DepartmentEntity department;
     
     private PositionEntity position;
+    
 
 }
